@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\dmlkZW9wbGF5YmFjaw==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">4278674</Metadata>
+    <Metadata name="Source">videoplayback.mp3</Metadata>
+    <Metadata name="SourceFile">dmlkZW9wbGF5YmFjaw==.mp3</Metadata>
+    <Metadata name="mp3">videoplayback</Metadata>
+    <Metadata name="srcurl">dmlkZW9wbGF5YmFjaw==.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">dmlkZW9wbGF5YmFjaw==.mp3</Metadata>
+    <Metadata name="srclinkFile">dmlkZW9wbGF5YmFjaw==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">videoplayback</Metadata>
+    <Metadata name="Identifier">HASH30708a963c6777ecf36dc4</Metadata>
+    <Metadata name="lastmodified">1713302808</Metadata>
+    <Metadata name="lastmodifieddate">20240416</Metadata>
+    <Metadata name="oailastmodified">1713302827</Metadata>
+    <Metadata name="oailastmodifieddate">20240416</Metadata>
+    <Metadata name="assocfilepath">HASH3070.dir</Metadata>
+    <Metadata name="gsdlassocfile">dmlkZW9wbGF5YmFjaw==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

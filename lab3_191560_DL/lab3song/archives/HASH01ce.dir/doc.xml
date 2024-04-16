@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\RW1pbmVtIC0gR05BVCAoRGlyZWN0ZWQgYnkgQ29sZSBCZW5uZXR0KQ==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">7593368</Metadata>
+    <Metadata name="Source">Eminem - GNAT (Directed by Cole Bennett).mp3</Metadata>
+    <Metadata name="SourceFile">RW1pbmVtIC0gR05BVCAoRGlyZWN0ZWQgYnkgQ29sZSBCZW5uZXR0KQ==.mp3</Metadata>
+    <Metadata name="mp3">Eminem - GNAT (Directed by Cole Bennett)</Metadata>
+    <Metadata name="srcurl">RW1pbmVtIC0gR05BVCAoRGlyZWN0ZWQgYnkgQ29sZSBCZW5uZXR0KQ==.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">RW1pbmVtIC0gR05BVCAoRGlyZWN0ZWQgYnkgQ29sZSBCZW5uZXR0KQ==.mp3</Metadata>
+    <Metadata name="srclinkFile">RW1pbmVtIC0gR05BVCAoRGlyZWN0ZWQgYnkgQ29sZSBCZW5uZXR0KQ==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">Eminem - GNAT (Directed by Cole Bennett)</Metadata>
+    <Metadata name="Identifier">HASH01ced762960fb14df9d13d5e</Metadata>
+    <Metadata name="lastmodified">1713302794</Metadata>
+    <Metadata name="lastmodifieddate">20240416</Metadata>
+    <Metadata name="oailastmodified">1713302826</Metadata>
+    <Metadata name="oailastmodifieddate">20240416</Metadata>
+    <Metadata name="assocfilepath">HASH01ce.dir</Metadata>
+    <Metadata name="gsdlassocfile">RW1pbmVtIC0gR05BVCAoRGlyZWN0ZWQgYnkgQ29sZSBCZW5uZXR0KQ==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

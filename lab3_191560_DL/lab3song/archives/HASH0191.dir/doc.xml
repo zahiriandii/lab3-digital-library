@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\eminem.jpeg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="FileSize">23901</Metadata>
+    <Metadata name="Source">eminem.jpeg</Metadata>
+    <Metadata name="SourceFile">eminem.jpeg</Metadata>
+    <Metadata name="srclink_file">eminem.jpeg</Metadata>
+    <Metadata name="srclinkFile">eminem.jpeg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot;&gt;</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; alt=&quot;[srclinkFile]&quot; width=&quot;100&quot;&gt;</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">eminem</Metadata>
+    <Metadata name="Identifier">HASH0191fee4ae110cc84179ae27</Metadata>
+    <Metadata name="lastmodified">1713301805</Metadata>
+    <Metadata name="lastmodifieddate">20240416</Metadata>
+    <Metadata name="oailastmodified">1713302827</Metadata>
+    <Metadata name="oailastmodifieddate">20240416</Metadata>
+    <Metadata name="assocfilepath">HASH0191.dir</Metadata>
+    <Metadata name="gsdlassocfile">eminem.jpeg::</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

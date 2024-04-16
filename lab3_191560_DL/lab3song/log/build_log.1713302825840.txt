@@ -1,0 +1,21 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file Eminem - GNAT (Directed by Cole Bennett).mp3 is being processed by MP3Plugin.
+The file Eminem2.webp was not recognised by any plugin.
+The file Eminem_2021_Color_Corrected.jpg is being processed by ImagePlugin.
+ImagePlugin Warning: Image conversion not available: Image Magick not installed'><File n='eminem.jpeg
+The file eminem.jpeg is being processed by ImagePlugin.
+ImagePlugin Warning: Image conversion not available: Image Magick not installed'><File n='videoplayback.mp3
+The file videoplayback.mp3 is being processed by MP3Plugin.
+************** Import Finished **************
+5 documents were considered for processing:
+    4 documents were processed and included in the collection.
+    1 was unrecognised.
+
+************** Build  Started **************
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;...
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Eminem_2021_Color_Corrected.jpg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="FileSize">166076</Metadata>
+    <Metadata name="Source">Eminem_2021_Color_Corrected.jpg</Metadata>
+    <Metadata name="SourceFile">Eminem_2021_Color_Corrected.jpg</Metadata>
+    <Metadata name="srclink_file">Eminem_2021_Color_Corrected.jpg</Metadata>
+    <Metadata name="srclinkFile">Eminem_2021_Color_Corrected.jpg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot;&gt;</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; alt=&quot;[srclinkFile]&quot; width=&quot;100&quot;&gt;</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">Eminem 2021 Color Corrected</Metadata>
+    <Metadata name="Identifier">HASH77688c8b1a2dd1c85a600a</Metadata>
+    <Metadata name="lastmodified">1713301841</Metadata>
+    <Metadata name="lastmodifieddate">20240416</Metadata>
+    <Metadata name="oailastmodified">1713302827</Metadata>
+    <Metadata name="oailastmodifieddate">20240416</Metadata>
+    <Metadata name="assocfilepath">HASH7768.dir</Metadata>
+    <Metadata name="gsdlassocfile">Eminem_2021_Color_Corrected.jpg::</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>
